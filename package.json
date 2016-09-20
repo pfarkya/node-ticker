@@ -1,0 +1,29 @@
+{
+  "name": "node-ticker",
+  "version": "1.0.0",
+  "description": "this is library to generate ticks and perform opration on that tick",
+  "main": "timeticker.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfarkya/node-ticker.git"
+  },
+  "keywords": [
+    "ticker"
+  ],
+  "author": "Prashant Farkya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfarkya/node-ticker/issues"
+  },
+  "homepage": "https://github.com/pfarkya/node-ticker#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
